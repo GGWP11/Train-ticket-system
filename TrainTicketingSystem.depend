@@ -1,0 +1,734 @@
+# depslib dependency file v1.0
+1672482658 source:c:\users\user\downloads\trainticketingsystem\main.cpp
+	<iostream>
+	<string>
+	<fstream>
+	<iomanip>
+	<vector>
+	<bits/stdc++.h>
+	<cctype>
+	<bits/stdc++.h>
+	"ticket.hpp"
+	"misc.hpp"
+	"Linkedlist.hpp"
+
+1672482259 c:\users\user\downloads\trainticketingsystem\ticket.hpp
+	<string>
+	<iostream>
+
+1670491857 c:\users\user\downloads\trainticketingsystem\misc.hpp
+	<string>
+	<iostream>
+
+1672283200 c:\users\user\downloads\trainticketingsystem\queue.hpp
+	<string>
+	<iostream>
+
+1672482628 source:c:\users\user\downloads\trainticketingsystem\queue.cpp
+	<iostream>
+	<string>
+	<fstream>
+	<iomanip>
+	<vector>
+	<bits/stdc++.h>
+	<cctype>
+	<bits/stdc++.h>
+	"ticket.hpp"
+	"misc.hpp"
+	"Linkedlist.hpp"
+
+1672482649 source:c:\users\user\downloads\trainticketingsystem\ticket.cpp
+	<iostream>
+	<string>
+	<fstream>
+	<iomanip>
+	<vector>
+	<bits/stdc++.h>
+	<cctype>
+	<bits/stdc++.h>
+	"ticket.hpp"
+	"misc.hpp"
+	"Linkedlist.hpp"
+
+1670933135 c:\users\user\downloads\trainticketingsystem\queue.cpp
+	<iostream>
+	<string>
+	<fstream>
+	<iomanip>
+	<vector>
+	<bits/stdc++.h>
+	<cctype>
+	<bits/stdc++.h>
+	"ticket.hpp"
+	"misc.hpp"
+	"Queue.hpp"
+
+1672307419 source:c:\users\user\downloads\trainticketingsystem\misc.cpp
+	<iostream>
+	<string>
+	<fstream>
+	<iomanip>
+	<vector>
+	<bits/stdc++.h>
+	<cctype>
+	<bits/stdc++.h>
+	"ticket.hpp"
+	"misc.hpp"
+	"Queue.hpp"
+
+1672482804 c:\users\user\downloads\trainticketingsystem\linkedlist.hpp
+	<string>
+	<iostream>
+
+1672482756 source:c:\users\user\downloads\trainticketingsystem\linkedlist.cpp
+	<iostream>
+	<string>
+	<fstream>
+	<iomanip>
+	<vector>
+	<bits/stdc++.h>
+	<cctype>
+	<bits/stdc++.h>
+	"ticket.hpp"
+	"misc.hpp"
+	"Linkedlist.hpp"
+
+1672491249 source:c:\users\user\desktop\latest ds\trainticketingsystem\linkedlist.cpp
+	<iostream>
+	<string>
+	<fstream>
+	<iomanip>
+	<vector>
+	<bits/stdc++.h>
+	<cctype>
+	<bits/stdc++.h>
+	"ticket.hpp"
+	"misc.hpp"
+	"Linkedlist.hpp"
+
+1672490218 c:\users\user\desktop\latest ds\trainticketingsystem\ticket.hpp
+	<string>
+	<iostream>
+
+1670491857 c:\users\user\desktop\latest ds\trainticketingsystem\misc.hpp
+	<string>
+	<iostream>
+
+1672491272 c:\users\user\desktop\latest ds\trainticketingsystem\linkedlist.hpp
+	<string>
+	<iostream>
+
+1672490768 source:c:\users\user\desktop\latest ds\trainticketingsystem\main.cpp
+	<iostream>
+	<string>
+	<fstream>
+	<iomanip>
+	<vector>
+	<bits/stdc++.h>
+	<cctype>
+	<bits/stdc++.h>
+	"ticket.hpp"
+	"misc.hpp"
+	"Linkedlist.hpp"
+
+1672307419 source:c:\users\user\desktop\latest ds\trainticketingsystem\misc.cpp
+	<iostream>
+	<string>
+	<fstream>
+	<iomanip>
+	<vector>
+	<bits/stdc++.h>
+	<cctype>
+	<bits/stdc++.h>
+	"ticket.hpp"
+	"misc.hpp"
+	"Queue.hpp"
+
+1672283200 c:\users\user\desktop\latest ds\trainticketingsystem\queue.hpp
+	<string>
+	<iostream>
+
+1672491337 source:c:\users\user\desktop\latest ds\trainticketingsystem\ticket.cpp
+	<iostream>
+	<string>
+	<fstream>
+	<iomanip>
+	<vector>
+	<bits/stdc++.h>
+	<cctype>
+	<bits/stdc++.h>
+	"ticket.hpp"
+	"misc.hpp"
+	"Linkedlist.hpp"
+
+1672491250 source:c:\users\amni\downloads\trainticketingsystem\trainticketingsystem\linkedlist.cpp
+	<iostream>
+	<string>
+	<fstream>
+	<iomanip>
+	<vector>
+	<bits/stdc++.h>
+	<cctype>
+	<bits/stdc++.h>
+	"ticket.hpp"
+	"misc.hpp"
+	"Linkedlist.hpp"
+
+1672550949 c:\users\amni\downloads\trainticketingsystem\trainticketingsystem\ticket.hpp
+	<string>
+	<iostream>
+
+1670491858 c:\users\amni\downloads\trainticketingsystem\trainticketingsystem\misc.hpp
+	<string>
+	<iostream>
+
+1672491274 c:\users\amni\downloads\trainticketingsystem\trainticketingsystem\linkedlist.hpp
+	<string>
+	<iostream>
+
+1672550540 source:c:\users\amni\downloads\trainticketingsystem\trainticketingsystem\misc.cpp
+	<iostream>
+	<string>
+	<fstream>
+	<iomanip>
+	<vector>
+	<bits/stdc++.h>
+	<cctype>
+	<bits/stdc++.h>
+	"ticket.hpp"
+	"misc.hpp"
+
+1672553702 source:c:\users\amni\downloads\trainticketingsystem\trainticketingsystem\main.cpp
+	<iostream>
+	<string>
+	<fstream>
+	<iomanip>
+	<vector>
+	<bits/stdc++.h>
+	<cctype>
+	<bits/stdc++.h>
+	"ticket.hpp"
+	"misc.hpp"
+	"Linkedlist.hpp"
+
+1672558319 source:c:\users\amni\downloads\trainticketingsystem\trainticketingsystem\ticket.cpp
+	<iostream>
+	<string>
+	<fstream>
+	<iomanip>
+	<vector>
+	<bits/stdc++.h>
+	<cctype>
+	<bits/stdc++.h>
+	"ticket.hpp"
+	"misc.hpp"
+	"Linkedlist.hpp"
+
+1672550542 source:c:\users\acer nitro\documents\irfanhafiz\trainticketingsystem(newest 1-1-23)\trainticketingsystem\trainticketingsystem\misc.cpp
+	<iostream>
+	<string>
+	<fstream>
+	<iomanip>
+	<vector>
+	<bits/stdc++.h>
+	<cctype>
+	<bits/stdc++.h>
+	"ticket.hpp"
+	"misc.hpp"
+
+1672563583 c:\users\acer nitro\documents\irfanhafiz\trainticketingsystem(newest 1-1-23)\trainticketingsystem\trainticketingsystem\ticket.hpp
+	<string>
+	<iostream>
+
+1670491858 c:\users\acer nitro\documents\irfanhafiz\trainticketingsystem(newest 1-1-23)\trainticketingsystem\trainticketingsystem\misc.hpp
+	<string>
+	<iostream>
+
+1672562985 source:c:\users\acer nitro\documents\irfanhafiz\trainticketingsystem(newest 1-1-23)\trainticketingsystem\trainticketingsystem\main.cpp
+	<iostream>
+	<string>
+	<fstream>
+	<iomanip>
+	<vector>
+	<bits/stdc++.h>
+	<cctype>
+	<bits/stdc++.h>
+	"ticket.hpp"
+	"misc.hpp"
+	"Linkedlist.hpp"
+
+1672562980 c:\users\acer nitro\documents\irfanhafiz\trainticketingsystem(newest 1-1-23)\trainticketingsystem\trainticketingsystem\linkedlist.hpp
+	<string>
+	<iostream>
+
+1672563592 source:c:\users\acer nitro\documents\irfanhafiz\trainticketingsystem(newest 1-1-23)\trainticketingsystem\trainticketingsystem\linkedlist.cpp
+	<iostream>
+	<string>
+	<fstream>
+	<iomanip>
+	<vector>
+	<bits/stdc++.h>
+	<cctype>
+	<bits/stdc++.h>
+	"ticket.hpp"
+	"misc.hpp"
+	"Linkedlist.hpp"
+
+1672563632 source:c:\users\acer nitro\documents\irfanhafiz\trainticketingsystem(newest 1-1-23)\trainticketingsystem\trainticketingsystem\ticket.cpp
+	<iostream>
+	<string>
+	<fstream>
+	<iomanip>
+	<vector>
+	<bits/stdc++.h>
+	<cctype>
+	<bits/stdc++.h>
+	"ticket.hpp"
+	"misc.hpp"
+	"Linkedlist.hpp"
+
+1672563594 source:c:\users\user\downloads\trainticketingsystem(irfan-newest)\trainticketingsystem(irfan-newest)\trainticketingsystem\trainticketingsystem\linkedlist.cpp
+	<iostream>
+	<string>
+	<fstream>
+	<iomanip>
+	<vector>
+	<bits/stdc++.h>
+	<cctype>
+	<bits/stdc++.h>
+	"ticket.hpp"
+	"misc.hpp"
+	"Linkedlist.hpp"
+
+1672758745 c:\users\user\downloads\trainticketingsystem(irfan-newest)\trainticketingsystem(irfan-newest)\trainticketingsystem\trainticketingsystem\ticket.hpp
+	<string>
+	<iostream>
+
+1670491858 c:\users\user\downloads\trainticketingsystem(irfan-newest)\trainticketingsystem(irfan-newest)\trainticketingsystem\trainticketingsystem\misc.hpp
+	<string>
+	<iostream>
+
+1672562982 c:\users\user\downloads\trainticketingsystem(irfan-newest)\trainticketingsystem(irfan-newest)\trainticketingsystem\trainticketingsystem\linkedlist.hpp
+	<string>
+	<iostream>
+
+1672758745 source:c:\users\user\downloads\trainticketingsystem(irfan-newest)\trainticketingsystem(irfan-newest)\trainticketingsystem\trainticketingsystem\main.cpp
+	<iostream>
+	<string>
+	<fstream>
+	<iomanip>
+	<vector>
+	<bits/stdc++.h>
+	<cctype>
+	<bits/stdc++.h>
+	"ticket.hpp"
+	"misc.hpp"
+	"Linkedlist.hpp"
+
+1672550542 source:c:\users\user\downloads\trainticketingsystem(irfan-newest)\trainticketingsystem(irfan-newest)\trainticketingsystem\trainticketingsystem\misc.cpp
+	<iostream>
+	<string>
+	<fstream>
+	<iomanip>
+	<vector>
+	<bits/stdc++.h>
+	<cctype>
+	<bits/stdc++.h>
+	"ticket.hpp"
+	"misc.hpp"
+
+1672760068 source:c:\users\user\downloads\trainticketingsystem(irfan-newest)\trainticketingsystem(irfan-newest)\trainticketingsystem\trainticketingsystem\ticket.cpp
+	<iostream>
+	<string>
+	<fstream>
+	<iomanip>
+	<vector>
+	<bits/stdc++.h>
+	<cctype>
+	<bits/stdc++.h>
+	"ticket.hpp"
+	"misc.hpp"
+	"Linkedlist.hpp"
+
+1672563594 source:c:\users\acer nitro\documents\trainticketingsystem_updated_seat_availability\trainticketingsystem\linkedlist.cpp
+	<iostream>
+	<string>
+	<fstream>
+	<iomanip>
+	<vector>
+	<bits/stdc++.h>
+	<cctype>
+	<bits/stdc++.h>
+	"ticket.hpp"
+	"misc.hpp"
+	"Linkedlist.hpp"
+
+1672814233 c:\users\acer nitro\documents\trainticketingsystem_updated_seat_availability\trainticketingsystem\ticket.hpp
+	<string>
+	<iostream>
+
+1670491858 c:\users\acer nitro\documents\trainticketingsystem_updated_seat_availability\trainticketingsystem\misc.hpp
+	<string>
+	<iostream>
+
+1672562982 c:\users\acer nitro\documents\trainticketingsystem_updated_seat_availability\trainticketingsystem\linkedlist.hpp
+	<string>
+	<iostream>
+
+1672818618 source:c:\users\acer nitro\documents\trainticketingsystem_updated_seat_availability\trainticketingsystem\main.cpp
+	<iostream>
+	<string>
+	<fstream>
+	<iomanip>
+	<vector>
+	<bits/stdc++.h>
+	<cctype>
+	<bits/stdc++.h>
+	"ticket.hpp"
+	"misc.hpp"
+	"Linkedlist.hpp"
+
+1672550542 source:c:\users\acer nitro\documents\trainticketingsystem_updated_seat_availability\trainticketingsystem\misc.cpp
+	<iostream>
+	<string>
+	<fstream>
+	<iomanip>
+	<vector>
+	<bits/stdc++.h>
+	<cctype>
+	<bits/stdc++.h>
+	"ticket.hpp"
+	"misc.hpp"
+
+1672820298 source:c:\users\acer nitro\documents\trainticketingsystem_updated_seat_availability\trainticketingsystem\ticket.cpp
+	<iostream>
+	<string>
+	<fstream>
+	<iomanip>
+	<vector>
+	<bits/stdc++.h>
+	<cctype>
+	<bits/stdc++.h>
+	"ticket.hpp"
+	"misc.hpp"
+	"Linkedlist.hpp"
+
+1672563594 source:c:\users\acer nitro\documents\trainticketingsystem_updated_seat_availability\trainticketingsystem-seatmatrix-4-1-23\linkedlist.cpp
+	<iostream>
+	<string>
+	<fstream>
+	<iomanip>
+	<vector>
+	<bits/stdc++.h>
+	<cctype>
+	<bits/stdc++.h>
+	"ticket.hpp"
+	"misc.hpp"
+	"Linkedlist.hpp"
+
+1672837965 c:\users\acer nitro\documents\trainticketingsystem_updated_seat_availability\trainticketingsystem-seatmatrix-4-1-23\ticket.hpp
+	<string>
+	<iostream>
+
+1670491858 c:\users\acer nitro\documents\trainticketingsystem_updated_seat_availability\trainticketingsystem-seatmatrix-4-1-23\misc.hpp
+	<string>
+	<iostream>
+
+1672562982 c:\users\acer nitro\documents\trainticketingsystem_updated_seat_availability\trainticketingsystem-seatmatrix-4-1-23\linkedlist.hpp
+	<string>
+	<iostream>
+
+1672818618 source:c:\users\acer nitro\documents\trainticketingsystem_updated_seat_availability\trainticketingsystem-seatmatrix-4-1-23\main.cpp
+	<iostream>
+	<string>
+	<fstream>
+	<iomanip>
+	<vector>
+	<bits/stdc++.h>
+	<cctype>
+	<bits/stdc++.h>
+	"ticket.hpp"
+	"misc.hpp"
+	"Linkedlist.hpp"
+
+1672550542 source:c:\users\acer nitro\documents\trainticketingsystem_updated_seat_availability\trainticketingsystem-seatmatrix-4-1-23\misc.cpp
+	<iostream>
+	<string>
+	<fstream>
+	<iomanip>
+	<vector>
+	<bits/stdc++.h>
+	<cctype>
+	<bits/stdc++.h>
+	"ticket.hpp"
+	"misc.hpp"
+
+1672836234 source:c:\users\acer nitro\documents\trainticketingsystem_updated_seat_availability\trainticketingsystem-seatmatrix-4-1-23\ticket.cpp
+	<iostream>
+	<string>
+	<fstream>
+	<iomanip>
+	<vector>
+	<bits/stdc++.h>
+	<cctype>
+	<bits/stdc++.h>
+	"ticket.hpp"
+	"misc.hpp"
+	"Linkedlist.hpp"
+
+1672563594 source:c:\users\user\downloads\trainticketingsystem-niceeeeee4-1-23\trainticketingsystem-niceeeeee4-1-23\linkedlist.cpp
+	<iostream>
+	<string>
+	<fstream>
+	<iomanip>
+	<vector>
+	<bits/stdc++.h>
+	<cctype>
+	<bits/stdc++.h>
+	"ticket.hpp"
+	"misc.hpp"
+	"Linkedlist.hpp"
+
+1672837966 c:\users\user\downloads\trainticketingsystem-niceeeeee4-1-23\trainticketingsystem-niceeeeee4-1-23\ticket.hpp
+	<string>
+	<iostream>
+
+1670491858 c:\users\user\downloads\trainticketingsystem-niceeeeee4-1-23\trainticketingsystem-niceeeeee4-1-23\misc.hpp
+	<string>
+	<iostream>
+
+1672562982 c:\users\user\downloads\trainticketingsystem-niceeeeee4-1-23\trainticketingsystem-niceeeeee4-1-23\linkedlist.hpp
+	<string>
+	<iostream>
+
+1673153830 source:c:\users\user\downloads\trainticketingsystem-niceeeeee4-1-23\trainticketingsystem-niceeeeee4-1-23\main.cpp
+	<iostream>
+	<string>
+	<fstream>
+	<iomanip>
+	<vector>
+	<bits/stdc++.h>
+	<cctype>
+	<bits/stdc++.h>
+	"ticket.hpp"
+	"misc.hpp"
+	"Linkedlist.hpp"
+
+1673153830 source:c:\users\user\downloads\trainticketingsystem-niceeeeee4-1-23\trainticketingsystem-niceeeeee4-1-23\misc.cpp
+	<iostream>
+	<string>
+	<fstream>
+	<iomanip>
+	<vector>
+	<bits/stdc++.h>
+	<cctype>
+	<bits/stdc++.h>
+	"ticket.hpp"
+	"misc.hpp"
+	"Linkedlist.hpp"
+
+1673153762 source:c:\users\user\downloads\trainticketingsystem-niceeeeee4-1-23\trainticketingsystem-niceeeeee4-1-23\ticket.cpp
+	<iostream>
+	<string>
+	<fstream>
+	<iomanip>
+	<vector>
+	<bits/stdc++.h>
+	<cctype>
+	<bits/stdc++.h>
+	"ticket.hpp"
+	"misc.hpp"
+	"Linkedlist.hpp"
+
+1673253797 source:c:\users\user\downloads\1el_group1-ryan wee mo xian\1el_group1-ryan wee mo xian\implementation codes\linkedlist.cpp
+	<iostream>
+	<string>
+	<fstream>
+	<iomanip>
+	<vector>
+	<bits/stdc++.h>
+	<cctype>
+	<bits/stdc++.h>
+	"ticket.hpp"
+	"misc.hpp"
+	"Linkedlist.hpp"
+
+1673253654 c:\users\user\downloads\1el_group1-ryan wee mo xian\1el_group1-ryan wee mo xian\implementation codes\ticket.hpp
+	<string>
+	<iostream>
+
+1670491858 c:\users\user\downloads\1el_group1-ryan wee mo xian\1el_group1-ryan wee mo xian\implementation codes\misc.hpp
+	<string>
+	<iostream>
+
+1673253725 c:\users\user\downloads\1el_group1-ryan wee mo xian\1el_group1-ryan wee mo xian\implementation codes\linkedlist.hpp
+	<string>
+	<iostream>
+
+1673253761 source:c:\users\user\downloads\1el_group1-ryan wee mo xian\1el_group1-ryan wee mo xian\implementation codes\main.cpp
+	<iostream>
+	<string>
+	<fstream>
+	<iomanip>
+	<vector>
+	<bits/stdc++.h>
+	<cctype>
+	<bits/stdc++.h>
+	"ticket.hpp"
+	"misc.hpp"
+	"Linkedlist.hpp"
+
+1673153832 source:c:\users\user\downloads\1el_group1-ryan wee mo xian\1el_group1-ryan wee mo xian\implementation codes\misc.cpp
+	<iostream>
+	<string>
+	<fstream>
+	<iomanip>
+	<vector>
+	<bits/stdc++.h>
+	<cctype>
+	<bits/stdc++.h>
+	"ticket.hpp"
+	"misc.hpp"
+	"Linkedlist.hpp"
+
+1673153764 source:c:\users\user\downloads\1el_group1-ryan wee mo xian\1el_group1-ryan wee mo xian\implementation codes\ticket.cpp
+	<iostream>
+	<string>
+	<fstream>
+	<iomanip>
+	<vector>
+	<bits/stdc++.h>
+	<cctype>
+	<bits/stdc++.h>
+	"ticket.hpp"
+	"misc.hpp"
+	"Linkedlist.hpp"
+
+1673253797 source:c:\users\user\downloads\data structure\project\1el_group1-ryan wee mo xian\implementation codes\linkedlist.cpp
+	<iostream>
+	<string>
+	<fstream>
+	<iomanip>
+	<vector>
+	<bits/stdc++.h>
+	<cctype>
+	<bits/stdc++.h>
+	"ticket.hpp"
+	"misc.hpp"
+	"Linkedlist.hpp"
+
+1673253654 c:\users\user\downloads\data structure\project\1el_group1-ryan wee mo xian\implementation codes\ticket.hpp
+	<string>
+	<iostream>
+
+1670491858 c:\users\user\downloads\data structure\project\1el_group1-ryan wee mo xian\implementation codes\misc.hpp
+	<string>
+	<iostream>
+
+1673253725 c:\users\user\downloads\data structure\project\1el_group1-ryan wee mo xian\implementation codes\linkedlist.hpp
+	<string>
+	<iostream>
+
+1673253761 source:c:\users\user\downloads\data structure\project\1el_group1-ryan wee mo xian\implementation codes\main.cpp
+	<iostream>
+	<string>
+	<fstream>
+	<iomanip>
+	<vector>
+	<bits/stdc++.h>
+	<cctype>
+	<bits/stdc++.h>
+	"ticket.hpp"
+	"misc.hpp"
+	"Linkedlist.hpp"
+
+1673153832 source:c:\users\user\downloads\data structure\project\1el_group1-ryan wee mo xian\implementation codes\misc.cpp
+	<iostream>
+	<string>
+	<fstream>
+	<iomanip>
+	<vector>
+	<bits/stdc++.h>
+	<cctype>
+	<bits/stdc++.h>
+	"ticket.hpp"
+	"misc.hpp"
+	"Linkedlist.hpp"
+
+1673926409 source:c:\users\user\downloads\data structure\project\1el_group1-ryan wee mo xian\implementation codes\ticket.cpp
+	<iostream>
+	<string>
+	<fstream>
+	<iomanip>
+	<vector>
+	<bits/stdc++.h>
+	<cctype>
+	<bits/stdc++.h>
+	"ticket.hpp"
+	"misc.hpp"
+	"Linkedlist.hpp"
+
+1673253798 source:f:\degree\data structure\project\1el_group1-ryan wee mo xian\implementation codes\linkedlist.cpp
+	<iostream>
+	<string>
+	<fstream>
+	<iomanip>
+	<vector>
+	<bits/stdc++.h>
+	<cctype>
+	<bits/stdc++.h>
+	"ticket.hpp"
+	"misc.hpp"
+	"Linkedlist.hpp"
+
+1673253656 f:\degree\data structure\project\1el_group1-ryan wee mo xian\implementation codes\ticket.hpp
+	<string>
+	<iostream>
+
+1670491858 f:\degree\data structure\project\1el_group1-ryan wee mo xian\implementation codes\misc.hpp
+	<string>
+	<iostream>
+
+1673253726 f:\degree\data structure\project\1el_group1-ryan wee mo xian\implementation codes\linkedlist.hpp
+	<string>
+	<iostream>
+
+1673253762 source:f:\degree\data structure\project\1el_group1-ryan wee mo xian\implementation codes\main.cpp
+	<iostream>
+	<string>
+	<fstream>
+	<iomanip>
+	<vector>
+	<bits/stdc++.h>
+	<cctype>
+	<bits/stdc++.h>
+	"ticket.hpp"
+	"misc.hpp"
+	"Linkedlist.hpp"
+
+1673153832 source:f:\degree\data structure\project\1el_group1-ryan wee mo xian\implementation codes\misc.cpp
+	<iostream>
+	<string>
+	<fstream>
+	<iomanip>
+	<vector>
+	<bits/stdc++.h>
+	<cctype>
+	<bits/stdc++.h>
+	"ticket.hpp"
+	"misc.hpp"
+	"Linkedlist.hpp"
+
+1673926410 source:f:\degree\data structure\project\1el_group1-ryan wee mo xian\implementation codes\ticket.cpp
+	<iostream>
+	<string>
+	<fstream>
+	<iomanip>
+	<vector>
+	<bits/stdc++.h>
+	<cctype>
+	<bits/stdc++.h>
+	"ticket.hpp"
+	"misc.hpp"
+	"Linkedlist.hpp"
+
