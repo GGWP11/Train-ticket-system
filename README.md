@@ -1,7 +1,7 @@
 # Train Ticketing System
 This train ticketing system is designed to facilitate convenient management of train ticket transactions. It provides functionalities for both end users and administrators, ensuring efficient ticket booking and management processes.
 
-**Features include:**
+**Features include:** <br/>
 `ADMINISTRATOR`
 - review, edit & delete booking record
 
